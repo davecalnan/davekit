@@ -1,0 +1,14 @@
+{
+  "name": "dave-os",
+  "version": "0.0.0",
+  "repository": "https://github.com/davecalnan/dave-os",
+  "author": "Dave Calnan <d@ve.ie>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "apps/*",
+      "packages/*"
+    ]
+  }
+}
