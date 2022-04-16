@@ -13,6 +13,6 @@
   },
   "scripts": {
     "build": "cd apps/davecalnan.me && yarn build",
-    "start:website": "cd apps/davecalnan.me && yarn start"
+    "start:website": "cd apps/davecalnan.me && npm run start"
   }
 }
