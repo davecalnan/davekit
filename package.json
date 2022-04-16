@@ -10,8 +10,5 @@
       "apps/*",
       "packages/*"
     ]
-  },
-  "scripts": {
-    "build": "cd apps/davecalnan.me && yarn build"
   }
 }
