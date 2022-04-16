@@ -1,7 +1,7 @@
 {
-  "name": "dave-os",
+  "name": "davekit",
   "version": "0.0.0",
-  "repository": "https://github.com/davecalnan/dave-os",
+  "repository": "https://github.com/davecalnan/davekit",
   "author": "Dave Calnan <d@ve.ie>",
   "license": "MIT",
   "private": true,
